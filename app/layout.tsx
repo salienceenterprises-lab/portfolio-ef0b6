@@ -2,7 +2,7 @@
 import React from 'react';
 import './globals.css';
 export const metadata = {
-  title: 'SOFIA  MARTINEZ',
+  title: 'SI MARTINEZ',
 };
 export default function RootLayout({ children }) {
   return (
